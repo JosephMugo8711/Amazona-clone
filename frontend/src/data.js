@@ -41,7 +41,7 @@ const data = {
       name: 'Nike Slim Pant',
       category: 'Pants',
       image: '/images/p4.jpg',
-      price: 78,
+      price: 0.05,
       countInStock: 15,
       brand: 'Nike',
       rating: 4.5,
